@@ -1,2 +1,2 @@
 bruh
-![TerrorByte]()
+![TerrorByte](SplashScreenByte.png)
