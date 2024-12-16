@@ -1,7 +1,7 @@
 # Liam York Portfolio 
 
 ## Blights Grasp
-
+![BlightsGrasp](BG1.png)
 
 
 
