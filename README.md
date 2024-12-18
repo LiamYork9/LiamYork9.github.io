@@ -40,12 +40,30 @@ Itch Page Link: <https://saugamedev.itch.io/analog-brawl>
 
 
 
+## Deja-Dungeon
+![Deja-Dungeon](Deja.png)
+
+A submission to Jam Anonymous 3. I worked on designing and building the puzzles/levels. I programmed the player movement and the core mechanic of resetting the room you are in to solve puzzles. 
+
+Itch Page Link: <https://xander-adams.itch.io/deja-dungeon>
 
 
 
 
 
+## TerrorByte
+![TerrorByte](Byte.png)
 
-![TerrorByte]()
+A submission to the SAU 2023 Fall Game Jam which was then worked on further in Fundamentals of Game Programming II. I helped pitch the initial concept for this game. Programmed the player movement and attacking, helped create level layouts, programmed a randomized loot table that dropped items at varying rarities, and helped decide on enemy encounters and statics such as damage numbers and speed.   
 
 Itch Page Link : <https://xander-adams.itch.io/terrorbyte>
+
+
+
+
+## Little Guyz
+![Little Guyz](Little.png)
+
+A submission to the SAU 2024 Fall Game Jam. I programmed the turn based battle system, the level up system, the stats for the player and enemies, helped program the unique absorption mechanic and implimited the animations for the enemies.  
+
+Itch Page Link: <https://coopercantrell.itch.io/little-guyz>
