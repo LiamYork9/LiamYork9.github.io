@@ -29,6 +29,16 @@ Itch Page Link: <https://yourgeekeric.itch.io/crown-of-screws>
 
 
 
+## Analog Brawl
+![Analog Brawl](Analog.png)
+
+2023 SAU Game Studio Workshop game. I created and pitched the initial idea for the project. Worked as its Design Lead writing a design doc, creating a list of the required animation for the character, wrote out the movesets and helped balance the game. I programmed the unique charge mechanic, the walls that stop the player from leaving the arena and decided damage numbers, knockback and how fast attacks were.
+
+Itch Page Link: <https://saugamedev.itch.io/analog-brawl>
+
+
+
+
 
 
 
