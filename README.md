@@ -19,6 +19,16 @@ Itch Page Link: <https://saugamedev.itch.io/oddessey-of-archery>
 
 
 
+## Crown of Screws
+![Crown of Screws](Crown.png)
+
+A Submission to the 8th annual LATech University Game Jam where it won the awards Best Overall and Developers Choice. I helped come up with our core concept to fit into the theme of our jam and our scope. I programmed the player movement, the player and enemy shooting, and implemented the background music. I also set up the barriers so the player can’t leave the map, helped come up with our power up concepts and made the tutorial.  
+
+Itch Page Link: <https://yourgeekeric.itch.io/crown-of-screws>
+
+
+
+
 
 
 
