@@ -18,7 +18,7 @@ Steam Page: <https://store.steampowered.com/app/2659530/Stop_The_Slimes/>
 ## Odessey of Archery
 ![OA](Archery.png)
 
-2024 SAU VR Workshop Project. I was the Lead Designer on this project. Building out levels, figuring out and designing VR controller layouts, creating puzzles and arrow concepts, and helping create a list of important assets for our art team. 
+2024 SAU VR Workshop Project. I was the Lead Designer on this project with a team size of 14. Building out levels, figuring out and designing VR controller layouts, creating puzzles and arrow concepts, and helping create a list of important assets for our art team. 
 
 Itch Page Link: <https://saugamedev.itch.io/oddessey-of-archery>
 
@@ -39,7 +39,7 @@ Itch Page Link: <https://yourgeekeric.itch.io/crown-of-screws>
 ## Analog Brawl
 ![Analog Brawl](Analog.png)
 
-2023 SAU Game Studio Workshop game. I created and pitched the initial idea for the project. Worked as its Design Lead writing a design doc, creating a list of the required animation for the character, wrote out the movesets and helped balance the game. I programmed the unique charge mechanic, the walls that stop the player from leaving the arena and decided damage numbers, knockback and how fast attacks were.
+2023 SAU Game Studio Workshop game. This project had a team size of 13. I created and pitched the initial idea for the project. Worked as its Design Lead writing a design doc, creating a list of the required animation for the character, wrote out the movesets and helped balance the game. I programmed the unique charge mechanic, the walls that stop the player from leaving the arena and decided damage numbers, knockback and how fast attacks were.
 
 Itch Page Link: <https://saugamedev.itch.io/analog-brawl>
 
