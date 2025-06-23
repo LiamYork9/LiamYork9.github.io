@@ -80,6 +80,6 @@ Itch Page Link: <https://coopercantrell.itch.io/little-guyz>
 ## Blight's Grasp
 
 A diagram depicting our March MVP 
-![MVP](Blight'sGrasp.png)
+![MVP](Blight's Grasp.png)
 
 
