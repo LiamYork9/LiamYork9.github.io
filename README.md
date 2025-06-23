@@ -69,3 +69,32 @@ Itch Page Link : <https://xander-adams.itch.io/terrorbyte>
 A submission to the SAU 2024 Fall Game Jam. I programmed the turn based battle system, the level up system, the stats for the player and enemies, helped program the unique absorption mechanic and implimited the animations for the enemies.  
 
 Itch Page Link: <https://coopercantrell.itch.io/little-guyz>
+
+
+
+
+
+
+
+
+
+
+
+
+final List<String> listImages = [
+  Little.png
+  Byte.png
+  Crown.png
+  ];'
+
+  CarouselImages(
+  scaleFactor: 0.6,
+  listImages: listImages,
+  height: 300.0,
+  borderRadius: 30.0,
+  cachedNetworkImage: true,
+  verticalAlignment: Alignment.topCenter,
+  onTap: (index){
+    print('Tapped on page $index');
+  },
+)
