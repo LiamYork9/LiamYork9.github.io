@@ -82,4 +82,7 @@ Itch Page Link: <https://coopercantrell.itch.io/little-guyz>
 A diagram depicting our March MVP 
 ![MVP](MarchMVP.png)
 
+Our Game Design Document for Blight's Grasp
+<file:///C:/Users/Liam/Downloads/Blight's%20Grasp%20Design%20Doc.pdf>
+
 
