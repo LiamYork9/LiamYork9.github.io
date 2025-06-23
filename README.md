@@ -10,7 +10,7 @@ Steam Page: <https://store.steampowered.com/app/3470150/Blights_Grasp/>
 
 
 
-## Oddessey of Archery
+## Odessey of Archery
 ![OA](Archery.png)
 
 2024 SAU VR Workshop Project. I was the Lead Designer on this project. Building out levels, figuring out and designing VR controller layouts, creating puzzles and arrow concepts, and helping create a list of important assets for our art team. 
