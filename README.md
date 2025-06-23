@@ -7,7 +7,10 @@
 
 Steam Page: <https://store.steampowered.com/app/3470150/Blights_Grasp/>
 
+## Stop the Slimes
+![StS](Slime.png)
 
+Steam Page: <https://store.steampowered.com/app/2659530/Stop_The_Slimes/>
 
 
 ## Odessey of Archery
