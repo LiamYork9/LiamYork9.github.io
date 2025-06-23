@@ -75,4 +75,5 @@ A submission to the SAU 2024 Fall Game Jam. I programmed the turn based battle s
 
 Itch Page Link: <https://coopercantrell.itch.io/little-guyz>
 
-json/sources.json
+## Design Documentation I have Created 
+
