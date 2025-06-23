@@ -1,6 +1,6 @@
 # Liam York Portfolio 
 
-## Blights Grasp
+## Blight's Grasp
 ![BlightsGrasp](BlightGrasp2.png)
 
 2024-2025 SAU GameDev Senior Project. On this team of 12 I was the Design Lead for this project helping form the pitch, creating a design doc, scoping our project and helping road map our plan. I also programmed the player movement, camera system, and controller support as well as helping with the combat system and creating our enemy encounters and levels. I worked on our steam page and achieved our release deadline of 4/29/25. 
@@ -76,4 +76,7 @@ A submission to the SAU 2024 Fall Game Jam. I programmed the turn based battle s
 Itch Page Link: <https://coopercantrell.itch.io/little-guyz>
 
 ## Design Documentation I have Created 
+
+## Blight's Grasp
+
 
