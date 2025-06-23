@@ -1,7 +1,7 @@
 # Liam York Portfolio 
 
 ## Blights Grasp
-![BlightsGrasp](Blight.png)
+![BlightsGrasp](Blight2.png)
 
 2024-2025 SAU GameDev Senior Project. I worked as the Design Lead on this project helping form the pitch, creating a design doc, scoping our project and helping road map our plan. I also programmed the player movement, camera system, and controller support as well as helping with the combat system and creating our enemy encounters and levels.  
 
