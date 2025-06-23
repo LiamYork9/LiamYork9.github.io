@@ -83,6 +83,7 @@ A diagram depicting our March MVP
 ![MVP](MarchMVP.png)
 
 Our Game Design Document for Blight's Grasp
-<https://docs.google.com/document/d/1gFvubmwQqYzyojUwl8Spxi1kWuPpLPJ0tRQl8Slt-Vw/edit?tab=t.0#heading=h.wrle630s7fl>
+
+Doc Link:<https://docs.google.com/document/d/1gFvubmwQqYzyojUwl8Spxi1kWuPpLPJ0tRQl8Slt-Vw/edit?tab=t.0#heading=h.wrle630s7fl>
 
 
