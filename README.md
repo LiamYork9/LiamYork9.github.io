@@ -3,12 +3,14 @@
 ## Blights Grasp
 ![BlightsGrasp](BlightGrasp2.png)
 
-2024-2025 SAU GameDev Senior Project. I worked as the Design Lead on this project helping form the pitch, creating a design doc, scoping our project and helping road map our plan. I also programmed the player movement, camera system, and controller support as well as helping with the combat system and creating our enemy encounters and levels.  
+2024-2025 SAU GameDev Senior Project. On this team of 12 I was the Design Lead for this project helping form the pitch, creating a design doc, scoping our project and helping road map our plan. I also programmed the player movement, camera system, and controller support as well as helping with the combat system and creating our enemy encounters and levels. I worked on our steam page and achieved our release deadline of 4/29/25. 
 
 Steam Page: <https://store.steampowered.com/app/3470150/Blights_Grasp/>
 
 ## Stop the Slimes
 ![StS](Slime.png)
+
+June 2025 Pre early access launch. I worked as a designer on this project and worked on the game balance and flow. Tested and tweaked all the towers, enemies and levels to see how they felt, adjusting all kinds of values from enemy speed to how much damage a tower deals. 
 
 Steam Page: <https://store.steampowered.com/app/2659530/Stop_The_Slimes/>
 
