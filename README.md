@@ -3,7 +3,7 @@
 ## Blight's Grasp
 ![BlightsGrasp](BlightGrasp2.png)
 
-2024-2025 SAU GameDev Senior Project. On this team of 12 I was the Design Lead for this project helping form the pitch, creating a design doc, scoping our project and helping road map our plan. I also programmed the player movement, camera system, and controller support as well as helping with the combat system and creating our enemy encounters and levels. I worked on our steam page and achieved our release deadline of 4/29/25. 
+2024-2025 SAU GameDev Senior Project. On this team of 12 I was the Design Lead for this project helping form the pitch, creating a design doc, scoping our project and helping road map our plan. I also programmed the player movement, camera system, and controller support as well as helping with the combat system and creating our enemy encounters and levels. I worked on our steam page and achieved our release deadline of 4/29/25. It also won best student game at the SAU Indiefest 2025. 
 
 Steam Page: <https://store.steampowered.com/app/3470150/Blights_Grasp/>
 
